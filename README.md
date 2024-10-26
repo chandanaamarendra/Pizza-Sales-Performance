@@ -74,3 +74,6 @@ pizza id, order id, pizza name id, quantity, order date, order time, unit price,
 ## Technologies
 ##### Power BI
 ##### SQL(for data analysis)
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
